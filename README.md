@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zwothe Siwada
 - 👀 I’m interested in Business Information Systems and Analysis
-- 🌱 I’m currently Studying IT Specializing in Buniness Apps and Informatics
+- 🌱 I’m currently Studying IT Specializing in Business Apps and Informatics
 - 💞️ I’m looking to collaborate on Development and Invention of Solutions by applying IT skills to solve Traditional and e-Businesses problems in a 4IR era
 - 📫 Reach me here: siwadazwothe@gmail.com
 
