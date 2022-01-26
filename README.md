@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zwothe Siwada
 
-I am knowledgeable, performance driven, and detail-oriented IT Business 
+A knowledgeable, performance driven, and detail-oriented IT Business 
 Analyst Intern who excels at analyzing business needs and applying IT skills in 
 solving business problems. Possesses great technical expertise, high impact 
 communication skill and ability to perform well in a team. I always go an extra 
