@@ -8,7 +8,7 @@ mile to get things done. I am young, vibrant, energetic, enthusiastic, mind
 unlocked and innovative candidate. I am result driven with strong attention to 
 details and have a sound understanding of business systems and handling 
 web support requests. I am a strong facilitator and articulated document 
-writer. I am passionate about my dreams and being an example to people 
+writer & Front-End Angular Developer. I am passionate about my dreams and being an example to people 
 around me is what I desire and wake up for. Above all, I bridge the gap 
 between Business and Technology
 
