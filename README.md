@@ -10,7 +10,7 @@ details and have a sound understanding of business systems and handling
 web support requests. I am a strong facilitator and articulated document 
 writer & Front-End Angular Developer. I am passionate about my dreams and being an example to people 
 around me is what I desire and wake up for. Above all, I bridge the gap 
-between Business and Technology
+between Business and Technology. I love working systems!
 
 reach me here: siwadazwothe@gmail.com
 
